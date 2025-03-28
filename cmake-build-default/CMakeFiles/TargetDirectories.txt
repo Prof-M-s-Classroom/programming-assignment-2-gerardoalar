@@ -1,0 +1,3 @@
+/Users/nesting/CLionProjects/programming-assignment-2-gerardoalar/cmake-build-default/CMakeFiles/CS210PA2.dir
+/Users/nesting/CLionProjects/programming-assignment-2-gerardoalar/cmake-build-default/CMakeFiles/edit_cache.dir
+/Users/nesting/CLionProjects/programming-assignment-2-gerardoalar/cmake-build-default/CMakeFiles/rebuild_cache.dir
