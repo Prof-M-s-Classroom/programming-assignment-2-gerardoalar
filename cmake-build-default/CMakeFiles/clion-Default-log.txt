@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -G "Unix Makefiles" -S /Users/nesting/CLionProjects/programming-assignment-2-gerardoalar -B /Users/nesting/CLionProjects/programming-assignment-2-gerardoalar/cmake-build-default
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/nesting/CLionProjects/programming-assignment-2-gerardoalar/cmake-build-default
